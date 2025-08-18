@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Sourob Md</h1>
-<h3 align="center">A passionate WDeveloper, , UI/UX Designer and Research assistant from Sylhet, Bangladesh</h3>
+<h3 align="center">A passionate Web Developer, , UI/UX Designer and Research assistant from Sylhet, Bangladesh</h3>
 
 - 📫 How to reach me **sourob617@gmail.com**
 
